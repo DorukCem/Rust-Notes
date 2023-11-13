@@ -28,3 +28,4 @@ fn main() {
 
 // Arrays are stack allocated.
 // An array is a collection of objects of the same type T, stored in contiguous memory.
+// :)
