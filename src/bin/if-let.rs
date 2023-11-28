@@ -36,5 +36,4 @@ fn main() {
       println!("c is {}", value);
    }
 
-
 }
